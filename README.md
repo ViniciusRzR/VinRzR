@@ -1,4 +1,4 @@
-### Oi! Me chamo Vincius Rezende 👋
+### Oi! Me chamo Vinicius Rezende 👋
 
 <!--
 **VinRzR/VinRzR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ## Stats
 <div align="center">
   <a href="https://github.com/vinrzr">
